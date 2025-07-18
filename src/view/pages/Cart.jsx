@@ -10,7 +10,7 @@ function Cart() {
           <Header/>
         </div>
         <div>
-          <h2>cart </h2>
+          <h2>carts </h2>
           <div>
           <CartsItem/>
           </div>
